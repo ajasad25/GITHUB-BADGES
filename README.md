@@ -21,21 +21,6 @@
 
 ---
 
-<details>
-<summary><strong>📋 Table of Contents</strong> (click to expand)</summary>
-
-- [Achievement Badges](#-achievement-badges)
-- [How to Earn Each Badge](#-how-to-earn-each-badge)
-- [Beta Badges](#-beta-badges)
-- [Retired Badges](#-retired-badges)
-- [Highlight Badges](#-highlight-badges)
-- [Skin Tone Variants](#-skin-tone-variants)
-- [Settings & Display](#%EF%B8%8F-settings--display)
-
-</details>
-
----
-
 ## 🏅 Achievement Badges
 
 ### Tiered Achievements
