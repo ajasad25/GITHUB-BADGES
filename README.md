@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/GitHub-Achievements?style=for-the-badge&logo=github&color=yellow)](https://github.com/YOUR_USERNAME/GitHub-Achievements/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/ajasad25/GITHUB-BADGES?style=for-the-badge&logo=github&color=yellow)](https://github.com/ajasad25/GITHUB-BADGES/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 </div>
